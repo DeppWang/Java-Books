@@ -2,7 +2,7 @@
 
 ![image.png](https://upload-images.jianshu.io/upload_images/5863464-b350642436144387.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-如果不能打开，可尝试点击仓库书名预览或直接点击 `下载` 下载。
+如果不能打开，可尝试点击仓库书名预览或在Chrome浏览器中直接点击 `下载` 下载。
 
 ## Java
 * [Java编程思想](https://depp.wang/Java-Book/Java编程思想.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Book/master/Java编程思想.pdf)
