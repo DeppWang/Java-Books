@@ -1,4 +1,4 @@
-点击下列书名可直接在线阅读，第一次打开速度跟文件大小有关，PC端建议使用Chrome浏览器，它还提供下载、打印、目录等功能。
+点击下列书名可直接在线阅读，第一次打开速度跟文件大小有关（如失败，多刷新几次），PC端建议使用Chrome浏览器，它还提供下载、打印、目录等功能。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/5863464-b350642436144387.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
