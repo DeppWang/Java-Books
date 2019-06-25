@@ -27,7 +27,7 @@
 
 ## 算法与数据结构
 * [Algorithms, 4th Edition ](https://depp.wang/Java-Books/Algorithms%2C%204th%20Edition.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/Algorithms%2C%204th%20Edition.pdf) 
-<!--![[Algorithms, 4th Edition ](https://depp.wang/Java-Books/Algorithms%2C%204th%20Edition.pdf)](https://upload-images.jianshu.io/upload_images/5863464-c9f91094458414c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)-->
+* [算法图解.epub ](https://depp.wang/Java-Books/算法图解.epub)
 ## 计算机组成原理
 * [编码的奥秘](https://depp.wang/Java-Books/编码的奥秘.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/编码的奥秘.pdf) 
 ---
