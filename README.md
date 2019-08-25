@@ -1,13 +1,15 @@
+<!--由于微信不允许外部链接，你需要点击页尾左下角的「阅读原文」，才能访问文中的链接。 -->
+
 **电子版可以提前了解书籍内容，随时随地阅读，是纸质版的补充。但真正学习时，还是纸质版更方便。知识无价，好书不易，建议同时购买纸质版，支持作者创作。**
 
 ---
-分享一些个人认为Java程序员读了可以提高个人能力的高分书籍，都是非扫描版。
+分享一些个人认为 Java 程序员读了可以提高个人能力的高分书籍，都是非扫描版。
 
-直接点击下列书名就可以在线阅读，第一次打开速度跟文件大小有关（如失败，多刷新几次），PC端建议使用Chrome浏览器，它还提供下载、打印、目录等功能。
+直接点击下列书名就可以在线阅读，第一次打开速度跟文件大小有关（如失败，多刷新几次），PC 端建议使用 Chrome 浏览器，它还提供下载、打印、目录等功能。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/5863464-b350642436144387.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-如果不能打开，可尝试点击仓库书名预览或在Chrome浏览器中直接点击 `下载` 下载。
+如果不能打开，可尝试点击仓库书名预览或在 Chrome 浏览器中直接点击 `下载` 下载。
 
 ## Java
 * [Head First Java（第2版）](https://depp.wang/Java-Books/Head%20First%20Java（第2版）.pdf)  [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/Head%20First%20Java（第2版）.pdf) 
@@ -34,7 +36,7 @@
 
 
 
-如果你有其他非扫描版高分书籍，欢迎提交Pull requests。
+如果你有其他非扫描版高分书籍，欢迎提交 Pull requests。
 
-**注**：以上书本来源于[网络](https://www.jiumodiary.com/)，仅供个人学习，请勿用于商业用途。
+**注**：以上书本来源于 [网络](https://www.jiumodiary.com/)，仅供个人学习，请勿用于商业用途。
 
