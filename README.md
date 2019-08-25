@@ -36,7 +36,7 @@
 
 
 
-如果你有其他非扫描版高分书籍，欢迎提交 Pull requests。
+可用多看阅读 APP 阅读 epub 格式书籍。如果你有其他非扫描版高分书籍，欢迎提交 Pull requests。
 
 **注**：以上书本来源于 [网络](https://www.jiumodiary.com/)，仅供个人学习，请勿用于商业用途。
 
