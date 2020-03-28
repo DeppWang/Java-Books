@@ -10,24 +10,25 @@
 如果不能打开，可尝试点击仓库书名预览或在 Chrome 浏览器中直接点击 `下载` 下载。
 
 ## Java
+* [Java 教程 - 廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744)
 * [Head First Java（第2版）](https://depp.wang/Java-Books/docs/Head%20First%20Java（第2版）.pdf)  [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//Head%20First%20Java（第2版）.pdf) 
 * [Head First Java, 2nd Edition](https://depp.wang/Java-Books/docs/Head%20First%20Java,%202nd%20Edition.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//Head%20First%20Java,%202nd%20Edition.pdf)
-* [Java编程思想](https://depp.wang/Java-Books/docs/Java编程思想.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//Java编程思想.pdf)
-* [深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）](https://depp.wang/Java-Books/docs/深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）.pdf)
+* [Java 编程思想](https://depp.wang/Java-Books/docs/Java编程思想.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//Java编程思想.pdf)
+* [深入理解 Java 虚拟机：JVM 高级特性与最佳实践（第2版）](https://depp.wang/Java-Books/docs/深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）.pdf)
 * [Java并发编程的艺术](https://depp.wang/Java-Books/docs/Java并发编程的艺术.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//Java并发编程的艺术.pdf) 
 
 ## 编程
 * [阿里巴巴 Java 开发手册1.4.0](https://depp.wang/Java-Books/docs/阿里巴巴%20Java%20开发手册1.4.0.pdf)  [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//阿里巴巴%20Java%20开发手册1.4.0.pdf) 
 * [代码整洁之道](https://depp.wang/Java-Books/docs/代码整洁之道.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//代码整洁之道.pdf)
 * [Effective Java, 2nd Edition](https://depp.wang/Java-Books/docs/Effective%20Java,%202nd%20Edition.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//Effective%20Java,%202nd%20Edition.pdf) 
-* [重构--改善既有代码的设计.epub](https://depp.wang/Java-Books/docs/重构--改善既有代码的设计.epub)
+* 重构--改善既有代码的设计.epub [`下载`](https://depp.wang/Java-Books/docs/重构--改善既有代码的设计.epub)
 
 ## Linux
-* [鸟哥的Linux私房菜-基础学习篇（第四版）](https://depp.wang/Java-Books/docs/鸟哥的Linux私房菜-基础学习篇（第四版）.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//鸟哥的Linux私房菜-基础学习篇（第四版）.pdf) 
+* [鸟哥的 Linux 私房菜-基础学习篇（第四版）](http://linux.vbird.org/linux_basic/) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//鸟哥的Linux私房菜-基础学习篇（第四版）.pdf) 
 
 ## 算法与数据结构
-* [Algorithms, 4th Edition ](https://depp.wang/Java-Books/docs/Algorithms%2C%204th%20Edition.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/books/Algorithms%2C%204th%20Edition.pdf) 
-* [算法图解.epub ](https://depp.wang/Java-Books/算法图解.epub)
+* [Algorithms, 4th Edition ](https://algs4.cs.princeton.edu/home/) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/books/Algorithms%2C%204th%20Edition.pdf) 
+* 算法图解.epub [`下载`](https://depp.wang/Java-Books/docs/算法图解.epub)
 ## 计算机组成原理
 * [编码的奥秘](https://depp.wang/Java-Books/docs/编码的奥秘.pdf) [`下载`](https://raw.githubusercontent.com/deppwang/Java-Books/master/docs//编码的奥秘.pdf) 
 ---
